@@ -1,0 +1,14 @@
+1. Worst-case time complexity of the reverse() function
+The function reverse the order of the list. In worst-case scenario, 
+the function tranverse through the whole list while removing Node elements 
+from the List to temporarily save them  into the another new List, and 
+then transver through the new List in the reversed order into the original
+List. Since each elements is visited twice, one when in the original List 
+and one in the new List. The time complexity is O(2n) -> O(n), where n is number 
+the of the element of the List.
+
+2. Time complexity of release_mem() function
+The function is used to free memory from a specific MyMemoryBlock in a List. 
+In worst-case scenario, the function transverse through all the elements 
+in the List to find the desired block. Therefore, the time complexity of 
+the function is O(n), where n is the number of elements in List.

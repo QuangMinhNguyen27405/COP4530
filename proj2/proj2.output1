@@ -1,0 +1,145 @@
+Memory configuration:
+Number of memory blocks (integer): Memory block size (integer): ====================
+d: memory dump
+r: request memory
+l: release memory
+m: merge memory
+x: quit program
+Your choice: Number of blocks: 10
+Block(index = 0): 100
+Block(index = 1): 100
+Block(index = 2): 100
+Block(index = 3): 100
+Block(index = 4): 100
+Block(index = 5): 100
+Block(index = 6): 100
+Block(index = 7): 100
+Block(index = 8): 100
+Block(index = 9): 100
+====================
+d: memory dump
+r: request memory
+l: release memory
+m: merge memory
+x: quit program
+Your choice: Requested memory size (integer): ====================
+d: memory dump
+r: request memory
+l: release memory
+m: merge memory
+x: quit program
+Your choice: Requested memory size (integer): ====================
+d: memory dump
+r: request memory
+l: release memory
+m: merge memory
+x: quit program
+Your choice: Requested memory size (integer): ====================
+d: memory dump
+r: request memory
+l: release memory
+m: merge memory
+x: quit program
+Your choice: Number of blocks: 9
+Block(index = 0): 20
+Block(index = 2): 100
+Block(index = 3): 100
+Block(index = 4): 100
+Block(index = 5): 100
+Block(index = 6): 100
+Block(index = 7): 100
+Block(index = 8): 100
+Block(index = 9): 100
+====================
+d: memory dump
+r: request memory
+l: release memory
+m: merge memory
+x: quit program
+Your choice: Requested memory size (integer): ====================
+d: memory dump
+r: request memory
+l: release memory
+m: merge memory
+x: quit program
+Your choice: Number of blocks: 9
+Block(index = 0): 20
+Block(index = 2): 20
+Block(index = 3): 100
+Block(index = 4): 100
+Block(index = 5): 100
+Block(index = 6): 100
+Block(index = 7): 100
+Block(index = 8): 100
+Block(index = 9): 100
+====================
+d: memory dump
+r: request memory
+l: release memory
+m: merge memory
+x: quit program
+Your choice: Requested memory size (integer): ====================
+d: memory dump
+r: request memory
+l: release memory
+m: merge memory
+x: quit program
+Your choice: Number of blocks: 9
+Block(index = 0): 20
+Block(index = 2): 20
+Block(index = 3): 20
+Block(index = 4): 100
+Block(index = 5): 100
+Block(index = 6): 100
+Block(index = 7): 100
+Block(index = 8): 100
+Block(index = 9): 100
+====================
+d: memory dump
+r: request memory
+l: release memory
+m: merge memory
+x: quit program
+Your choice: Release memory index (integer): Release memory size (integer): ====================
+d: memory dump
+r: request memory
+l: release memory
+m: merge memory
+x: quit program
+Your choice: Number of blocks: 9
+Block(index = 0): 20
+Block(index = 2): 20
+Block(index = 3): 60
+Block(index = 4): 100
+Block(index = 5): 100
+Block(index = 6): 100
+Block(index = 7): 100
+Block(index = 8): 100
+Block(index = 9): 100
+====================
+d: memory dump
+r: request memory
+l: release memory
+m: merge memory
+x: quit program
+Your choice: ====================
+d: memory dump
+r: request memory
+l: release memory
+m: merge memory
+x: quit program
+Your choice: Number of blocks: 7
+Block(index = 0): 100
+Block(index = 4): 100
+Block(index = 5): 100
+Block(index = 6): 100
+Block(index = 7): 100
+Block(index = 8): 100
+Block(index = 9): 100
+====================
+d: memory dump
+r: request memory
+l: release memory
+m: merge memory
+x: quit program
+Your choice: 
